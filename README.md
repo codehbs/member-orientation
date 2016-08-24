@@ -9,15 +9,15 @@ Before we start, let's get some administrative stuff out of the way.
 
 - [ ] Fill out the accountability group survey (weekly survey)
 
-- [ ] Request membership for [CODE's GitHub organization](github.com/codehbs)
+- [ ] Request membership for [CODE's GitHub organization](http://github.com/codehbs)
 
-- [ ] Sign up for our [CODE Slack group](codehbs.slack.com) and add a channel for your accountability group
+- [ ] Sign up for our [CODE Slack group](http://codehbs.slack.com) and add a channel for your accountability group
 
-- [ ] Follow [@codeHBS](twitter.com/codehbs) on Twitter
+- [ ] Follow [@codeHBS](http://twitter.com/codehbs) on Twitter
 
-- [ ] Like [@codeHBS](facebook.com/codehbs) on Facebook
+- [ ] Like [@codeHBS](http://facebook.com/codehbs) on Facebook
 
-- [ ] Follow [@codeHBS](instagram.com/codehbs) on Instagram
+- [ ] Follow [@codeHBS](http://instagram.com/codehbs) on Instagram
 
 ## Pay your CODE dues
 - [ ] Send membership dues of $35 (1 year) or $50 (2 years) to bcohen@mba2017.hbs.edu via PayPal by September 7, 2016.
