@@ -21,3 +21,10 @@ Before we start, let's get some administrative stuff out of the way.
 
 ## Pay your CODE dues
 - [ ] Send membership dues of $35 (1 year) or $50 (2 years) to bcohen@mba2017.hbs.edu via PayPal by September 7, 2016.
+
+## Start Building
+For those of you who are eager to jump in, here's a few ideas:
+- [ ] Sign up for the [GitHub Student Developer Pack](https://education.github.com/pack), which has lots of great free and reduced-rates on developer tools for students
+- [ ] Create your first PR for [CODE's open-source website](https://github.com/codehbs/codehbs-official-homepage). If you're not sure what a "PR" is or would like to work on this challenge with a friend, come to the next CODE meeting and we can parallel program and do it together :)
+
+Welcome on board!
