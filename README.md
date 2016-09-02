@@ -5,13 +5,11 @@ Welcome! We're stoked that you're joining CODE at HBS. Our mission is to bring t
 Before we start, let's get some administrative stuff out of the way.
 
 ## Become part of our commmunity
-- [ ] Fill out your [member profile](https://docs.google.com/spreadsheets/d/183cUm7faXCFAFDo1p5W0D46Hh5tXWA94P9mGvJR3RC0/edit?usp=sharing)
-
-- [ ] Fill out the accountability group survey (weekly survey)
+- [ ] Fill out your [member profile](https://docs.google.com/spreadsheets/d/183cUm7faXCFAFDo1p5W0D46Hh5tXWA94P9mGvJR3RC0/edit?usp=sharing) accountability group survey
 
 - [ ] Request membership for [CODE's GitHub organization](http://github.com/codehbs)
 
-- [ ] Sign up for our [CODE Slack group](http://codehbs.slack.com) and add a channel for your accountability group
+- [ ] Sign up for our [CODE Slack group](http://codehbs.slack.com) and add a channel for your accountability group if you have one
 
 - [ ] Follow [@codeHBS](http://twitter.com/codehbs) on Twitter
 
