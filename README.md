@@ -5,7 +5,7 @@ Welcome! We're stoked that you're joining CODE at HBS. Our mission is to bring t
 Before we start, let's get some administrative stuff out of the way.
 
 ## Become part of our commmunity
-- [ ] Fill out your [member profile](https://docs.google.com/spreadsheets/d/183cUm7faXCFAFDo1p5W0D46Hh5tXWA94P9mGvJR3RC0/edit?usp=sharing) accountability group survey
+- [ ] Fill out your [member profile](bit.ly/codehbs-member-profiles)
 
 - [ ] Request membership for [CODE's GitHub organization](http://github.com/codehbs)
 
