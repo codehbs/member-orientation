@@ -30,3 +30,5 @@ For those of you who are eager to jump in, here's a few ideas:
 - [ ] Create your first PR for [CODE's open-source website](https://github.com/codehbs/codehbs-official-homepage). If you're not sure what a "PR" is or would like to work on this challenge with a friend, come to the next CODE meeting and we can parallel program and do it together :)
 
 Welcome on board!
+
+SOURCE: https://github.com/codehbs/member-orientation
