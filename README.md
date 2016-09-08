@@ -18,7 +18,8 @@ Before we start, let's get some administrative stuff out of the way.
 - [ ] Follow [@codeHBS](http://instagram.com/codehbs) on Instagram
 
 ## Pay your CODE dues
-- [ ] Send membership dues of $35 (1 year) or $50 (2 years) to code@studentclubs.hbs.edu via PayPal by September 16, 2016.
+- [ ] Send membership dues of $35 (1 year) or $50 (2 years) to code@studentclubs.hbs.edu via PayPal's “Send money to friends and family”. In the “Note” box, please include (a) First and last name and (b) your HBS email address.
+**Deadline**: Friday Sept 23 @ 5p
 
 ## Start Building
 For those of you who are eager to jump in, here's a few ideas:
