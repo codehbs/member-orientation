@@ -23,7 +23,7 @@ Before we start, let's get some administrative stuff out of the way.
 
 ## Join the CODE Board
 - [ ] Check out the [open roles for the CODE Board of Directors](https://docs.google.com/document/d/1UEzorFCw_1Uiuxhu8qN0cSTAfgJChxYZRkIQEKYKiUM/). We expect many of the roles will be filled by RCs, but open to all HBS students. All-levels welcome to apply. 
-- Looking for individuals who are curious and want to build out our organization. If you're reading this, that means you! Email acoravos@mba2017.hbs.edu with a short blurb with the role you're interested in and why.
+- [ ] Looking for individuals who are curious and want to build out our organization. If you're reading this, that means you! Email acoravos@mba2017.hbs.edu with a short blurb with the role you're interested in and why.
 **Deadline**: Tuesday Sept 27 @ 5p
 
 ## Start Building
