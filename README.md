@@ -22,7 +22,7 @@ Before we start, let's get some administrative stuff out of the way.
 **Deadline**: Friday Sept 23 @ 5p
 
 ## Join the CODE Board
-- [ ] Apply to [join the CODE Board or become a CODE Section Rep](https://docs.google.com/forms/d/e/1FAIpQLSfsL3bATsXYa6uqbosOOeSQjtTPwmwj0WiDV5FfIqtvXgd18Q/viewform)
+- [ ] Apply to [join the CODE Board or become a CODE Section Rep](https://docs.google.com/forms/d/e/1FAIpQLSfsL3bATsXYa6uqbosOOeSQjtTPwmwj0WiDV5FfIqtvXgd18Q/viewform).
 **Deadline**: Wed Sept 21 @ 5p
 
 ## Start Building
