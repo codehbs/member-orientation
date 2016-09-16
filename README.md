@@ -22,9 +22,8 @@ Before we start, let's get some administrative stuff out of the way.
 **Deadline**: Friday Sept 23 @ 5p
 
 ## Join the CODE Board
-- [ ] Check out the [open roles for the CODE Board of Directors](https://docs.google.com/document/d/1UEzorFCw_1Uiuxhu8qN0cSTAfgJChxYZRkIQEKYKiUM/). We expect many of the roles will be filled by RCs, but open to all HBS students. All-levels welcome to apply. 
-- [ ] Looking for individuals who are curious and want to build out our organization. If you're reading this, that means you! Email acoravos@mba2017.hbs.edu with a short blurb with the role you're interested in and why.
-**Deadline**: Tuesday Sept 27 @ 5p
+- [ ] Apply to [join the CODE Board or become a CODE Section Rep](https://docs.google.com/forms/d/e/1FAIpQLSfsL3bATsXYa6uqbosOOeSQjtTPwmwj0WiDV5FfIqtvXgd18Q/viewform)
+**Deadline**: Wed Sept 21 @ 5p
 
 ## Start Building
 For those of you who are eager to jump in, here's a few ideas:
