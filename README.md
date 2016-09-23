@@ -7,7 +7,7 @@ Before we start, let's get some administrative stuff out of the way.
 ## Become part of our commmunity
 - [ ] Fill out your [member profile](http://bit.ly/codehbs-member-profiles)
 
-- [ ] Request membership for [CODE's GitHub organization](http://github.com/codehbs)
+- [ ] Request membership for [CODE's GitHub organization](http://github.com/codehbs) by emailing acoravos@mba2017.hbs.edu and providing your Github username. 
 
 - [ ] Sign up for our [CODE Slack group](http://codehbs.slack.com) and add a channel for your accountability group if you have one
 
