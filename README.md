@@ -13,12 +13,13 @@ Before we start, let's get some administrative stuff out of the way.
 
 - [ ] Follow [@codeHBS](http://twitter.com/codehbs) on Twitter
 
-- [ ] Like [CODE@HBS](http://facebook.com/codehbs) on Facebook
+- [ ] Like [CODE@HBS](http://facebook.com/codehbs) on Facebook <-- great way to follow our events each week
 
 - [ ] Follow [@codeHBS](http://instagram.com/codehbs) on Instagram
 
 ## Pay your CODE dues
 - [ ] Send membership dues of $35 (1 year) or $50 (2 years) to code@studentclubs.hbs.edu via PayPal's “Send money to friends and family”. In the “Note” box, please include (a) First and last name and (b) your HBS email address.
+
 **Deadline**: The official HBS deadline has passed, but send a note to our CFO, Ben Cohen (bcohen@mba2017.hbs.edu), after you submit your PayPal dues and he will get you added to the club officially.
 
 ## Start Building
