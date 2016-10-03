@@ -19,11 +19,7 @@ Before we start, let's get some administrative stuff out of the way.
 
 ## Pay your CODE dues
 - [ ] Send membership dues of $35 (1 year) or $50 (2 years) to code@studentclubs.hbs.edu via PayPal's “Send money to friends and family”. In the “Note” box, please include (a) First and last name and (b) your HBS email address.
-**Deadline**: Friday Sept 23 @ 5p
-
-## Join the CODE Board
-- [ ] Apply to [join the CODE Board or become a CODE Section Rep](https://docs.google.com/forms/d/e/1FAIpQLSfsL3bATsXYa6uqbosOOeSQjtTPwmwj0WiDV5FfIqtvXgd18Q/viewform).
-**Deadline**: Wed Sept 21 @ 5p
+**Deadline**: The official HBS deadline has passed, but send a note to our CFO, Ben Cohen (bcohen@mba2017.hbs.edu), after you submit your PayPal dues and he will get you added to the club officially.
 
 ## Start Building
 For those of you who are eager to jump in, here's a few ideas:
