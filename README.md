@@ -13,7 +13,7 @@ Before we start, let's get some administrative stuff out of the way.
 
 - [ ] Follow [@codeHBS](http://twitter.com/codehbs) on Twitter
 
-- [ ] Like [@codeHBS](http://facebook.com/codehbs) on Facebook
+- [ ] Like [CODE@HBS](http://facebook.com/codehbs) on Facebook
 
 - [ ] Follow [@codeHBS](http://instagram.com/codehbs) on Instagram
 
