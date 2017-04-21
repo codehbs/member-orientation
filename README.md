@@ -30,7 +30,7 @@ For those of you who are eager to jump in, here's a few ideas:
     - Free domain registration for a year
     - Unlimited private repositories on GitHub while you're a student
 - [ ] Set up your [dev environment](https://github.com/codehbs/computer-setup) on your computer (instructions for Mac, Windows and Linux) 
-- [ ] Create your first PR for [CODE's open-source website](https://github.com/codehbs/codehbs-official-homepage). If you're not sure what a "PR" is or would like to work on this challenge with a friend, come to the next CODE meeting and we can parallel program and do it together :)
+- [ ] Create your first PR for [CODE's open-source website](https://github.com/codehbs/codehbs.github.io). If you're not sure what a "PR" is or would like to work on this challenge with a friend, come to the next CODE meeting and we can parallel program and do it together :)
 
 Welcome on board!
 
