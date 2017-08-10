@@ -1,4 +1,4 @@
-#CODE Member Orientation
+# CODE Member Orientation
 
 Welcome! We're stoked that you're joining CODE at HBS. Our mission is to bring technologists together at HBS. Our meetings are a short 30 minutes each week, and we're focused on helping you make things. 
 
